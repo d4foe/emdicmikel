@@ -86,4 +86,3 @@ pickle-email-*.html
 #ruby-gemset ruby-version
 /.ruby-gemset
 /.ruby-version
-config/secrets.yml
